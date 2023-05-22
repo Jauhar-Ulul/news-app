@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:news_app/article.dart';
 import 'ui/detail_page.dart';
 import 'ui/home_page.dart';
 import 'ui/article_web_view.dart';
 import 'style.dart';
-import 'widget/platform_widget.dart';
 
 void main() {
   runApp(const MyApp());
