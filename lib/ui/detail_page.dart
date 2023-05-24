@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/article.dart';
-import 'package:webview_flutter/webview_flutter.dart';
-import '../widget/custom_scaffold.dart';
 import 'article_web_view.dart';
 
 class ArticleDetailPage extends StatelessWidget {

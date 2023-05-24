@@ -4,7 +4,7 @@ import 'package:news_app/article.dart';
 
 class ApiService {
   static final String _baseUrl = 'https://newsapi.org/v2/';
-  static final String _apiKey = '917171d47635488e86315c0882e2bc76';
+  static final String _apiKey = '68654fc381fd40f49b18651031d49b61';
   static String _category = '';
   static final String _country = 'us';
   // static final String _range = 'top-headlines';

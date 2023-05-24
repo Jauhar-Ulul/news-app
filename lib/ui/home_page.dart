@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:news_app/article.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 import '../data/api/api_service.dart';
-import '../widget/custom_scaffold.dart';
 import '../widget/platform_widget.dart';
 import '../widget/card_article.dart';
-import '../widget/side_nav.dart';
-import 'detail_page.dart';
 
 class NewsListPage extends StatefulWidget {
   @override
